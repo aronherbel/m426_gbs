@@ -1,0 +1,14 @@
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\bin\Debug\net7.0\FactorialCalculator.exe
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\bin\Debug\net7.0\FactorialCalculator.deps.json
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\bin\Debug\net7.0\FactorialCalculator.runtimeconfig.json
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\bin\Debug\net7.0\FactorialCalculator.dll
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\bin\Debug\net7.0\FactorialCalculator.pdb
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\obj\Debug\net7.0\FactorialCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\obj\Debug\net7.0\FactorialCalculator.AssemblyInfoInputs.cache
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\obj\Debug\net7.0\FactorialCalculator.AssemblyInfo.cs
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\obj\Debug\net7.0\FactorialCalculator.csproj.CoreCompileInputs.cache
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\obj\Debug\net7.0\FactorialCalculator.dll
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\obj\Debug\net7.0\refint\FactorialCalculator.dll
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\obj\Debug\net7.0\FactorialCalculator.pdb
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\obj\Debug\net7.0\FactorialCalculator.genruntimeconfig.cache
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\FactorialCalculator\obj\Debug\net7.0\ref\FactorialCalculator.dll

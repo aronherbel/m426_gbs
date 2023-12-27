@@ -1,0 +1,14 @@
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\bin\Debug\net7.0\StringCalculator.exe
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\bin\Debug\net7.0\StringCalculator.deps.json
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\bin\Debug\net7.0\StringCalculator.runtimeconfig.json
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\bin\Debug\net7.0\StringCalculator.dll
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\bin\Debug\net7.0\StringCalculator.pdb
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.AssemblyInfo.cs
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.dll
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\obj\Debug\net7.0\refint\StringCalculator.dll
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.pdb
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.genruntimeconfig.cache
+C:\Users\aronh\OneDrive - Kt. SG BLD\M426\FactorialCalculator\StringCalculator\obj\Debug\net7.0\ref\StringCalculator.dll
