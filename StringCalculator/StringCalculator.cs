@@ -33,9 +33,26 @@ namespace StringCalculator
                 return 0;
             }
 
-            string[] numberArray = numbers.Split(',', '\n', '.', ':', '&', '|', '/', ';');
-          
-            
+
+            char[] defaultDelimiters = { ',', '\n' };
+
+            int indexOfNewLine = numbers.IndexOf('\n');
+            char[] customDelimiters;
+
+            if (indexOfNewLine == 1 && !char.IsDigit(numbers[0]))
+            {
+                customDelimiters = numbers.Substring(0, indexOfNewLine).ToCharArray();
+                indexOfNewLine++;
+            }
+            else
+            {
+                customDelimiters = defaultDelimiters;
+                indexOfNewLine = 0;
+            }
+
+            char[] allDelimiters = defaultDelimiters.Concat(customDelimiters).ToArray();
+            string[] numberArray = numbers.Substring(indexOfNewLine).Split(allDelimiters);
+
 
             int sum = 0;
             List<int> negativeList = new List<int>();

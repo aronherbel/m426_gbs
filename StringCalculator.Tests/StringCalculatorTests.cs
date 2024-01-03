@@ -69,9 +69,9 @@ namespace StringCalculator.Tests
         {
             var calc = new StringCalculator();
 
-            var result = calc.Add("1\n2,3,4.5&6:7/8;9|10");
+            var result = calc.Add(";\n1;2");
             
-            Assert.AreEqual(55, result);
+            Assert.AreEqual(3, result);
         }
 
         [TestMethod]
